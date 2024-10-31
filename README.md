@@ -10,9 +10,9 @@
 
 NLP With Hugging Face Transformers
 
-<p>1. zero-shot-classification</p>
+## 1. Zero-Shot Classification
 
-  Setelah aku melakukan percobaan menggunakan zero ini berfungsi untuk mengklasifikasikan teks yang tidak memerlukan pelatihan pelatihan untuk setiap kategori. Model dapat mengklasifikasikan teks tersebut hanya dengan berdasarkan deskripsi label yang kita berikan. Hasil nya akan memberikan kategori yang sesuai serta menunjukkan berapa  skor probabilitas dari setiap label yang ada dari klasifikasi teks yang kita berikan.
+Zero-shot classification adalah metode untuk mengklasifikasikan teks tanpa memerlukan pelatihan untuk setiap kategori. Model ini dapat mengklasifikasikan teks berdasarkan deskripsi label yang diberikan. Hasilnya akan menunjukkan kategori yang sesuai serta skor probabilitas dari setiap label.
 2. text-generation
   
   Dari percobaan yang telah aku buat, text - generation ini berfungsi sebagai mana untuk menghasilkan teks secara otomatis, berdasarkan teks atau kalimat awal yang telah kita inputkan. Yang mana hasil pipeline ini menciptakan kalimat atau paragraf sesuai dengan input yang diberikan. Selain itu juga membantu penulis dalam menghasilakn ide, menciptakan respons pada chatbot dan juga menghasilkan dialog atau narasi.
