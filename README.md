@@ -1,5 +1,5 @@
 <h1 align="center"> Natural Language Processing with Hugging Face Transformers </h1>
-<p align="center"> Berisi pipe line dari Hugging Face Transformers untuk keperluan Natural Language Processing (NLP) </p>
+<p align="center"> Hai, sahabat pembaca! Selamat datang di petualangan seru kita menjelajahi dunia Natural Language Processing (NLP). Siapkan diri Anda untuk menemukan berbagai model yang siap membantu Anda, mulai dari mengklasifikasikan teks hingga menerjemahkan kalimat dengan gaya yang penuh semangat! </p>
 
 <div align="center">
 
@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 
 <h1 align="center"> Analisis </h1>
+<p>Mari kita lihat apa saja yang bisa dilakukan oleh teman-teman kita yang berbasis AI ini:</p>
 
 ## 1. Zero-Shot Classification
 Zero-Shot Classification ini berfungsi untuk mengklasifikasikan teks yang tidak memerlukan pelatihan pelatihan untuk setiap kategori. Model dapat mengklasifikasikan teks tersebut hanya dengan berdasarkan deskripsi label yang kita berikan. Hasil nya akan memberikan kategori yang sesuai serta menunjukkan berapa skor probabilitas dari setiap label yang ada dari klasifikasi teks yang kita berikan.
@@ -54,4 +55,6 @@ Summarization berguna untuk merangkum atau mengambil poin - poin utama dari teks
 
 Pipeline ini digunakan untuk menerjemahkan teks. Model yang digunakan adalah `Helsinki-NLP/opus-mt-id-en`, yang menerjemahkan dari bahasa Indonesia ke bahasa Inggris. Anda juga dapat menyesuaikan model untuk bahasa lain.
 
-Terima kasih telah menggunakan model-model ini! Jika ada pertanyaan, jangan ragu untuk menghubungi kami. 🫡
+<p>Bergabunglah dengan kami dalam petualangan NLP ini. Siapkan popcorn dan nikmati perjalanan kita menjelajahi dunia teks yang luar biasa! Jika Anda menemukan bug, jangan ragu untuk menghubungi kami. Kami akan menangani masalah itu dengan senyuman! 😄
+
+Terima kasih telah membaca! Semoga hari Anda menyenangkan dan penuh inspirasi! 🎉</p>
