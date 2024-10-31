@@ -59,12 +59,6 @@ Pipeline ini digunakan untuk menerjemahkan teks. Model yang digunakan adalah `He
 
 ## 🤗 Bergabunglah Bersama Kami! 🤗
 
-Sebelum kita akhiri petualangan ini,  
-Mari kita tutup dengan pantun yang manis:  
-
-Di dunia NLP kita bersenang-senang,  
-Belajar dan berkreasi tanpa henti.  
-Semoga hari Anda penuh kebahagiaan,  
-Bergabunglah bersama kami, yuk, mari! 🎉
+Kami mengundang Anda untuk bergabung dalam petualangan NLP yang seru ini. Jika Anda menemukan bug atau memiliki ide-ide brilian, jangan ragu untuk memberi tahu kami. Kami selalu siap membantu dengan senyuman!
 
 Terima kasih telah meluangkan waktu untuk membaca! Semoga hari Anda secerah bintang di malam hari! 🌟
