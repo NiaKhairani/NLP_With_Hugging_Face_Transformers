@@ -55,6 +55,8 @@ Summarization berguna untuk merangkum atau mengambil poin - poin utama dari teks
 
 Pipeline ini digunakan untuk menerjemahkan teks. Model yang digunakan adalah `Helsinki-NLP/opus-mt-id-en`, yang menerjemahkan dari bahasa Indonesia ke bahasa Inggris. Anda juga dapat menyesuaikan model untuk bahasa lain.
 
+<br> 
+
 ## 🤗 Bergabunglah Bersama Kami! 🤗
 
 Kami mengundang Anda untuk bergabung dalam petualangan NLP yang seru ini. Jika Anda menemukan bug atau memiliki ide-ide brilian, jangan ragu untuk memberi tahu kami. Kami selalu siap membantu dengan senyuman!
