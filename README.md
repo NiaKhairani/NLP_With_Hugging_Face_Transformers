@@ -10,7 +10,7 @@
 
 NLP With Hugging Face Transformers
 
-1. zero-shot-classification
+<p>1. zero-shot-classification</p>
 
   Setelah aku melakukan percobaan menggunakan zero ini berfungsi untuk mengklasifikasikan teks yang tidak memerlukan pelatihan pelatihan untuk setiap kategori. Model dapat mengklasifikasikan teks tersebut hanya dengan berdasarkan deskripsi label yang kita berikan. Hasil nya akan memberikan kategori yang sesuai serta menunjukkan berapa  skor probabilitas dari setiap label yang ada dari klasifikasi teks yang kita berikan.
 2. text-generation
